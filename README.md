@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Priyanka Kumari</h1>
+
+- 🎓 I'm currently pursuing B.Tech in Information Technology at Heritage Institute of Technology, Kolkata.
+- 🔭 I’m currently working on Frontend Web Development!
+- 🌱 I’m currently learning and practicing Data Structures and Algorithms!
+- 👯 I’m looking to collaborate on Open Source Projects!
+- 🤔 I’m looking for help with Debugging Codes!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decodepriyanka&label=Profile%20views&color=0e75b6&style=flat" alt="decodepriyanka" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decodepriyanka" alt="decodepriyanka" /></a> </p>
@@ -6,6 +12,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me send me an email at **priyankayadav7282@gmail.com**
+- - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
